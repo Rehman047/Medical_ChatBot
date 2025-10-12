@@ -49,8 +49,8 @@ medical-chat/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/medical-chat.git
-cd medical-chat
+git clone https://github.com/Rehman047/Medical_ChatBot.git
+cd Medical_ChatBot
 ```
 
 ### 2. Create a Virtual Environment
@@ -139,6 +139,3 @@ This regenerates embeddings for all PDFs in the `data/` directory and stores the
 
 ---
 
-## 🧾 License
-
-Licensed under the **MIT License** — feel free to use, modify, and share with attribution.
