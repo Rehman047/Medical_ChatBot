@@ -4,7 +4,7 @@ langchain-core
 langchain-groq
 langchain-text-splitters
 langgraph
-faiss-cpu
+chromadb
 fastembed
 pypdf
 pydantic
